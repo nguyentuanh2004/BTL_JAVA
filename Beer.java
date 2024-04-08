@@ -13,5 +13,6 @@ public class Beer {
             }
             System.out.println(res);
         }
+        System.out.println("hello");
     }
 }
